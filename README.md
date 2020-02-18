@@ -4,7 +4,7 @@ L'etica hacker, Pekka Himamen
 - [L'etica hacker, Pekka Himamen](#letica-hacker-pekka-himamen)
 - [La legge di Linus Torvalds](#la-legge-di-linus-torvalds)
 - [Lo scopo della vita](#lo-scopo-della-vita)
-- [Il tempo è denaro?](#il-tempo-denaro-)
+- [Il tempo è denaro?](#il-tempo-è-denaro)
 - [Il denaro come motivazione](#il-denaro-come-motivazione)
 - [Il modello di apprendimento hacker](#il-modello-di-apprendimento-hacker)
 - [La netica](#la-netica)
